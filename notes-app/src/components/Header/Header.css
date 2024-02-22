@@ -1,0 +1,28 @@
+.mode {
+    transition: 0.3s !important;
+    background-color: #f1f1f1 !important;
+}
+
+.mode:hover {
+    background-color: rgb(230, 230, 230) !important;
+}
+
+h1 {
+    transition: 0.3s;
+}
+
+body.black-mode {
+    background-color: #101010 !important;
+}
+
+.black-mode {
+    background-color: black !important;
+}
+
+body {
+    transition: 0.3s !important;
+}
+
+.black-mode h1 {
+    color: white;
+}
